@@ -1,0 +1,93 @@
+exports.TIPOS_DISCAPACIDAD = [
+    'FISICA',
+    'VISUAL',
+    'AUDITIVA',
+    'INTELECTUAL',
+    'PSICOSOCIAL',
+    'MULTIPLE'
+];
+
+exports.MODALIDADES_TRABAJO = [
+    'REMOTO',
+    'PRESENCIAL',
+    'HIBRIDO'
+];
+
+exports.TIPOS_CONTRATO = [
+    'TIEMPO_COMPLETO',
+    'MEDIO_TIEMPO'
+];
+
+exports.NIVELES_EDUCACION = [
+    'SECUNDARIA_INCOMPLETA',
+    'SECUNDARIA_COMPLETA',
+    'SUPERIOR_INCOMPLETA',
+    'SUPERIOR_COMPLETA',
+    'TECNICO_INCOMPLETO',
+    'TECNICO_COMPLETO',
+    'MAESTRIA',
+    'DOCTORADO'
+];
+
+exports.RANGOS_SALARIO = [
+    '1200-2000',
+    '2000-3000',
+    '3000-4000',
+    '4000-5000'
+];
+
+exports.HABILIDADES = [
+    'COMUNICACION',
+    'TRABAJO_EN_EQUIPO',
+    'RESOLUCION_PROBLEMAS',
+    'ADAPTABILIDAD',
+    'ATENCION_CLIENTE',
+    'PROGRAMACION',
+    'ANALISIS_DATOS',
+    'GESTION_PROYECTOS',
+    'DISEÑO',
+    'REDACCION',
+    'SOFTWARE_OFICINA',
+    'IDIOMAS'
+];
+
+exports.AREAS_TRABAJO = [
+    'TECNOLOGIA',
+    'SALUD',
+    'EDUCACION',
+    'FINANZAS',
+    'VENTAS',
+    'MANUFACTURA',
+    'SERVICIO_CLIENTE',
+    'ADMINISTRACION',
+    'MARKETING',
+    'RECURSOS_HUMANOS'
+];
+
+exports.REGIONES_PERU = [
+    'AMAZONAS',
+    'ANCASH',
+    'APURIMAC',
+    'AREQUIPA',
+    'AYACUCHO',
+    'CAJAMARCA',
+    'CALLAO',
+    'CUSCO',
+    'HUANCAVELICA',
+    'HUANUCO',
+    'ICA',
+    'JUNIN',
+    'LA_LIBERTAD',
+    'LAMBAYEQUE',
+    'LIMA',
+    'LORETO',
+    'MADRE_DE_DIOS',
+    'MOQUEGUA',
+    'PASCO',
+    'PIURA',
+    'PUNO',
+    'SAN_MARTIN',
+    'TACNA',
+    'TUMBES',
+    'UCAYALI'
+];
